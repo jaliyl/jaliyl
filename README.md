@@ -5,6 +5,8 @@
 
  <a href="https://github.com/jaliyl/jaliyl/blob/main/VMDR%20Certification.pdf">Vulnerability Management Detection and Response (VMDR) Certification</a>
 
+<a href="https://github.com/jaliyl/jaliyl/blob/main/University%20of%20South%20Florida%20Cyber%20Security%20Boot%20Camp%20Certficate.pdf">Cyber Security Boot Camp Certificate</a>
+
   - [Net+] [In Progress...](https://www.credly.com/earner/earned/badge/83328a43-2b41-4be4-82c5-414f6228617c) 
 
   - [Security+] [In Progress...](https://www.credly.com/earner/earned/badge/fc1776cc-e449-4175-812e-9c8783c16e07) 
