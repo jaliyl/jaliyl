@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaliyl! <a href="https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/jaliyl-parham/)">hello</a> </h1>
+<h1>Hi, I'm  <a href="https://www.linkedin.com/in/jaliyl-parham">Jaliyl!</a> </h1>
 
  
 
