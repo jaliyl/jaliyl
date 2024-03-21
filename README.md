@@ -33,4 +33,4 @@
 
 [instagram]: https://www.instagram.com/ 
 
-[linkedin]: https://linkedin.com/in/ 
+[linkedin]: https://www.linkedin.com/in/jaliyl-parham/ 
