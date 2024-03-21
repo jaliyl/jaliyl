@@ -1,21 +1,9 @@
 <h1><a href="https://www.linkedin.com/in/jaliyl-parham">Hi, I'm Jaliyl!</a> </h1>
-
- 
-
-<h2>🛡️ Certifications</h2> 
-
-<a href="https://github.com/jaliyl/jaliyl/blob/main/VMDR%20Certification.pdf">Vulnerability Management Detection and Response (VMDR) Certification</a>
-
-
- - [Link Title](Link) <b><i>(Additional Information)</b></i> 
-
-  - [Link Title](Link) <b><i>(Additional Information)</b></i> 
-
    
 
 <h2>📜 Certifications:</h2> 
 
- 
+ <a href="https://github.com/jaliyl/jaliyl/blob/main/VMDR%20Certification.pdf">Vulnerability Management Detection and Response (VMDR) Certification</a>
 
   - [Net+](https://www.credly.com/earner/earned/badge/83328a43-2b41-4be4-82c5-414f6228617c) 
 
