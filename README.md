@@ -6,7 +6,6 @@
 
 <a href="https://github.com/jaliyl/jaliyl/blob/main/VMDR%20Certification.pdf">Vulnerability Management Detection and Response (VMDR) Certification</a>
 
- - [Link Title](Link) 
 
  - [Link Title](Link) <b><i>(Additional Information)</b></i> 
 
