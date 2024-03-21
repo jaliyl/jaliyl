@@ -1,10 +1,10 @@
-<h1>Hi, I'm Jaliyl! <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/jaliyl-parham/)">hello</a> </h1>
+<h1>Hi, I'm Jaliyl! <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/jaliyl-parham/)"></a> </h1>
 
  
 
-<h2>🛡️ Information Security Projects</h2> 
+<h2>🛡️ Certifications</h2> 
 
- 
+<a href="/learning/app/management/LMS_ActDetails.aspx?UserMode=0&amp;CallerURL=/learning/app/management/LMS_LearnerReports.aspx%3FUserMode%3D0&amp;ActivityId=25" title="">Vulnerability Management Detection and Response (VMDR) - Self Paced Training</a>
 
  - [Link Title](Link) 
 
