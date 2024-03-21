@@ -4,7 +4,7 @@
 
 <h2>🛡️ Certifications</h2> 
 
-<a href="/learning/app/management/LMS_ActDetails.aspx?UserMode=0&amp;CallerURL=/learning/app/management/LMS_LearnerReports.aspx%3FUserMode%3D0&amp;ActivityId=25" title="">Vulnerability Management Detection and Response (VMDR) - Self Paced Training</a>
+<a href="https://qualys.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D25%26UserMode%3D0">Vulnerability Management Detection and Response (VMDR) - Self Paced Training</a>
 
  - [Link Title](Link) 
 
