@@ -2,6 +2,8 @@
    
 
 <h2>📜 Certifications:</h2> 
+<a href="https://github.com/jaliyl/jaliyl/blob/main/Patch%20Management%20Certification.pdf">Patch Management Certification</a>
+<h1></h1>
 <a href="https://github.com/jaliyl/jaliyl/blob/main/Cloud%20Agent%20Certification.pdf">Qualys Cloud Agent Certification</a>
 <h1></h1>
  <a href="https://github.com/jaliyl/jaliyl/blob/main/VMDR%20Certification.pdf">Qualys Vulnerability Management Detection and Response (VMDR) Certification</a>
