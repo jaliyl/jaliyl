@@ -12,7 +12,7 @@
 <h1></h1>
 <a href="https://github.com/jaliyl/jaliyl/blob/main/University%20of%20South%20Florida%20Cyber%20Security%20Boot%20Camp%20Certficate.pdf">Cyber Security Boot Camp Certificate</a>
 
-  - [Network+] (https://www.credly.com/earner/earned/badge/83328a43-2b41-4be4-82c5-414f6228617c) 
+  - [Network+] (https://www.credly.com/badges/32cb9947-b3d7-4f87-ac1a-c4a8ae8613e2/public_url) 
 
   - [Security+] [In Progress...](https://www.credly.com/earner/earned/badge/fc1776cc-e449-4175-812e-9c8783c16e07) 
 
